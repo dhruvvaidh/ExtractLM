@@ -24,9 +24,8 @@ In .env.example file, you will have to add your OpenAI API Key and rename this f
 
 4. Read the instructions on the main page to get started with the application:
 
+## System Architecture diagram
+![System Architecture diagram](./images/system_architecture_diagram.png)
 
 ## Application Architecture diagram
 ![Application Architecture Diagram](./images/architecture_diagram.png)
-
-## System Architecture diagram
-![System Architecture diagram](./images/system_architecture_diagram.png)
