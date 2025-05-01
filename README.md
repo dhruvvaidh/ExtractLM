@@ -26,3 +26,7 @@ In .env.example file, you will have to add your OpenAI API Key and rename this f
 
 
 ## Application Architecture diagram
+![Application Architecture Diagram](./images/architecture_diagram.png)
+
+## System Architecture diagram
+![System Architecture diagram](./images/system_architecture_diagram.png)
