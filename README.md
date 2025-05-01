@@ -24,8 +24,8 @@ In .env.example file, you will have to add your OpenAI API Key and rename this f
 
 4. Read the instructions on the main page to get started with the application:
 
-## Chat with PDFs workflow diagram
+## Chat with CSVs workflow diagram
 ![System Architecture diagram](./images/system_architecture_diagram.png)
 
-## Chat with CSVs workflow diagram
+## Chat with PDFs workflow diagram
 ![Application Architecture Diagram](./images/architecture_diagram.png)
